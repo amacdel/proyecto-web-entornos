@@ -1,3 +1,2 @@
 # proyecto-web-entornos
-En este proyecto creamos la pagina web de una pescaderia llamada Mariscos Recio.
-En el proyexto hacemos uso de HTML, CSS y JavaScript
+Este proyecto es una landing page para "Mariscos Recio", el negocio ficticio de mariscos y pescados del personaje Antonio Recio de la serie española "La que se avecina". La página está diseñada como una tienda online de productos del mar, manteniendo el estilo y las frases características del personaje.
