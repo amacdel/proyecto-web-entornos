@@ -1,2 +1,26 @@
-# proyecto-web-entornos
+# Proyecto-web-MariscosRecio
+
+## Descripción
 Este proyecto es una landing page para "Mariscos Recio", el negocio ficticio de mariscos y pescados del personaje Antonio Recio de la serie española "La que se avecina". La página está diseñada como una tienda online de productos del mar, manteniendo el estilo y las frases características del personaje.
+
+## Tecnologías utilizadas
+
+- HTML5
+- CSS3 (con variables CSS, flexbox y grid)
+- JavaScript (vanilla, sin frameworks)
+- LocalStorage para persistencia de datos
+  
+  ## Uso
+
+1. Navega por las diferentes secciones usando el menú de navegación
+2. Explora los productos disponibles en la sección "Productos"
+3. Añade productos al carrito haciendo clic en "Añadir al carrito"
+4. Visualiza tu carrito haciendo clic en el icono de carrito flotante
+5. Ajusta cantidades o elimina productos en el carrito
+6. Finaliza tu compra haciendo clic en "Finalizar compra"
+7. Utiliza el formulario de contacto para enviar mensajes
+8. Suscríbete al newsletter para recibir novedades
+
+## Autor
+
+Este proyecto fue creado como parte de un ejercicio de desarrollo web.
