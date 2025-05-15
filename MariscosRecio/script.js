@@ -148,7 +148,6 @@ function mostrarFraseAleatoria() {
     const frases = [
         "¡Soy Antonio Recio, mayorista, no limpio pescado!",
         "¡El mar al mejor precio!",
-        "Mayorista y minorista. ¡No vendemos a negros!",
         "¡Mariscos Recio, el mar en su mesa!",
         "¡Pescado fresco, como si lo acabaras de pescar tú mismo!"
     ];
