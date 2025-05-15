@@ -14,12 +14,8 @@ Este proyecto es una landing page para "Mariscos Recio", el negocio ficticio de 
 
 1. Navega por las diferentes secciones usando el menú de navegación
 2. Explora los productos disponibles en la sección "Productos"
-3. Añade productos al carrito haciendo clic en "Añadir al carrito"
-4. Visualiza tu carrito haciendo clic en el icono de carrito flotante
-5. Ajusta cantidades o elimina productos en el carrito
-6. Finaliza tu compra haciendo clic en "Finalizar compra"
-7. Utiliza el formulario de contacto para enviar mensajes
-8. Suscríbete al newsletter para recibir novedades
+3. Visualiza tu carrito haciendo clic en el icono de carrito flotante
+4. Utiliza el formulario de contacto para enviar mensajes
 
 ## Autor
 
